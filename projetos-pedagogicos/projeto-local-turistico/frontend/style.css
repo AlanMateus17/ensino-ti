@@ -1,0 +1,237 @@
+/* ===== 1. FUNDAÇÃO E VARIÁVEIS GLOBAIS ===== */
+/* Esta é a base para um design consistente e profissional. */
+:root {
+    /* Paleta de Cores Inovadora */
+    --color-primary: #0D1B2A;       /* Azul escuro, quase preto (para texto e fundos) */
+    --color-secondary: #1B263B;     /* Azul noturno (para seções e cards) */
+    --color-accent: #E0E1DD;        /* Cinza claro, quase branco (para texto em fundos escuros) */
+    --color-highlight: #415A77;     /* Azul acinzentado (para links e detalhes) */
+    --color-cta: #FF6B6B;           /* Um toque vibrante para botões (Call-to-Action) */
+    
+    /* Tipografia Profissional */
+    --font-headings: 'Poppins', sans-serif;
+    --font-body: 'Lora', serif;
+
+    /* Espaçamento e Bordas */
+    --spacing-unit: 1rem;
+    --border-radius: 8px;
+    --shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Reset Básico e Padrões */
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 100%; /* Garante responsividade da fonte (1rem = 16px) */
+    scroll-behavior: smooth; /* Rolagem suave ao clicar em links internos */
+}
+
+body {
+    font-family: var(--font-body);
+    background-color: var(--color-primary);
+    color: var(--color-accent);
+    line-height: 1.6;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+a {
+    color: var(--color-highlight);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: var(--color-cta);
+}
+
+/* ===== 2. CABEÇALHO, NAVEGAÇÃO E HERO ===== */
+/* Um cabeçalho que prende a atenção e é funcional. */
+.main-header {
+    background: linear-gradient(rgba(13, 27, 42, 0.8), rgba(13, 27, 42, 1)), url('https://images.unsplash.com/photo-1519677100203-a0e668c92439?w=1200') no-repeat center center/cover;
+    min-height: 60vh;
+    padding: var(--spacing-unit);
+    display: flex;
+    flex-direction: column;
+}
+
+.main-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: var(--spacing-unit) 0;
+}
+
+.logo {
+    font-family: var(--font-headings);
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.main-nav ul {
+    list-style: none;
+    display: flex;
+    gap: calc(var(--spacing-unit) * 2);
+}
+
+.main-nav a {
+    font-family: var(--font-headings);
+    color: var(--color-accent);
+    padding-bottom: 5px;
+    position: relative;
+}
+
+/* Efeito inovador no link do menu */
+.main-nav a::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: var(--color-cta);
+    transition: width 0.4s ease-out;
+}
+
+.main-nav a:hover::after {
+    width: 100%;
+}
+
+.hero {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: calc(var(--spacing-unit) * 2);
+}
+
+.hero h1 {
+    font-family: var(--font-headings);
+    font-size: clamp(2.5rem, 5vw, 4rem); /* Título responsivo */
+    font-weight: 700;
+    margin-bottom: var(--spacing-unit);
+    color: #FFFFFF;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
+}
+
+.hero p {
+    font-size: 1.2rem;
+    font-style: italic;
+    max-width: 600px;
+}
+
+/* ===== 3. CONTEÚDO PRINCIPAL E CARDS ===== */
+/* O coração do seu blog: a lista de posts. */
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: calc(var(--spacing-unit) * 3);
+}
+
+.section-title {
+    font-family: var(--font-headings);
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: calc(var(--spacing-unit) * 3);
+    position: relative;
+}
+
+/* Detalhe visual para o título da seção */
+.section-title::after {
+    content: '';
+    display: block;
+    width: 80px;
+    height: 3px;
+    background-color: var(--color-cta);
+    margin: 10px auto 0;
+}
+
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Grid responsivo */
+    gap: calc(var(--spacing-unit) * 2);
+}
+
+.card {
+    background-color: var(--color-secondary);
+    border-radius: var(--border-radius);
+    overflow: hidden; /* Garante que a imagem não saia das bordas arredondadas */
+    box-shadow: var(--shadow);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4);
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover; /* Garante que a imagem preencha o espaço sem distorcer */
+    transition: transform 0.4s ease-out;
+}
+
+.card:hover img {
+    transform: scale(1.05); /* Efeito de zoom sutil na imagem */
+}
+
+.card-content {
+    padding: calc(var(--spacing-unit) * 1.5);
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-content h3 {
+    font-family: var(--font-headings);
+    font-size: 1.5rem;
+    margin-bottom: var(--spacing-unit);
+    color: #FFFFFF;
+}
+
+.card-content p {
+    margin-bottom: calc(var(--spacing-unit) * 1.5);
+    flex-grow: 1; /* Empurra o link para baixo */
+}
+
+.card-link {
+    font-family: var(--font-headings);
+    font-weight: 700;
+    align-self: flex-start; /* Alinha o link à esquerda */
+    color: var(--color-cta);
+}
+
+/* ===== 4. RODAPÉ ===== */
+/* Simples, direto e profissional. */
+.main-footer {
+    text-align: center;
+    padding: calc(var(--spacing-unit) * 2);
+    margin-top: calc(var(--spacing-unit) * 2);
+    border-top: 1px solid var(--color-highlight);
+    color: var(--color-highlight);
+}
+
+/* ===== 5. RESPONSIVIDADE ===== */
+/* Ajustes finos para telas menores. */
+@media (max-width: 768px) {
+    .main-nav {
+        flex-direction: column;
+        gap: var(--spacing-unit);
+    }
+    
+    .hero {
+        min-height: 50vh;
+    }
+}
