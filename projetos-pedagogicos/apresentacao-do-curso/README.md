@@ -69,20 +69,16 @@ Informática não é uma profissão só. É uma ferramenta que está dentro de t
 
 *Sendo honestos*
 
-- **Você aprende**
-  - Como um sistema é pensado, criado e mantido
-  - O que cada parte faz: hardware, sistema, rede, código e banco
-  - A fazer projetos simples e a entender os maiores
-  - Onde procurar e como continuar estudando
+Você aprende o que cada camada faz e como é criada
 
 - **O curso não promete**
   - Criar sozinho um sistema completo do zero
   - Manter um sistema sozinho, com segurança, por anos
-  - Ser especialista em todas as áreas ao mesmo tempo
+  - Ser especialista em todas as camadas ao mesmo tempo
 
-Na vida real, sistemas são feitos e mantidos por equipes. Querer fazer tudo sozinho é o caminho mais curto para o esgotamento (burnout).
+Na vida real, cada camada tem gente cuidando dela. Querer fazer tudo sozinho é o caminho mais curto para o esgotamento (burnout).
 
-> 🎤 **Fala:** Mas a gente quer ser honesto. O curso não transforma ninguém em alguém que cria sozinho um sistema completo do zero e ainda mantém tudo funcionando, com segurança, por anos. Nenhum profissional faz isso sozinho: na vida real, sistemas são feitos e mantidos por equipes, e cada pessoa cuida de uma parte. Quem tenta fazer tudo sozinho acaba esgotado, o que se chama burnout. O que o curso entrega é entender como um sistema é pensado, criado e mantido, saber o que cada parte faz, fazer projetos simples e saber como continuar aprendendo.
+> 🎤 **Fala:** Mas a gente quer ser honesto. Todo software é feito em camadas, como nesse desenho: a interface que você vê, as regras do programa, o banco de dados onde as informações ficam, o sistema operacional e o hardware. No curso a gente aprende o que cada camada faz, como ela é criada e como uma conversa com a outra, e faz projetos simples. O que o curso não promete é que alguém vá criar sozinho um sistema completo do zero e ainda mantê-lo, com segurança, por anos. Na vida real, cada camada tem gente cuidando dela, e quem tenta fazer tudo sozinho acaba esgotado, o que se chama burnout.
 
 [↑ voltar ao sumário](#sumário)
 
@@ -151,12 +147,13 @@ Obs.: cada aluno tem interesses e habilidades diferentes; por isso, cada um prec
 <a id="slide-9"></a>
 ## Slide 9 — Aprende o conceito uma vez, usa em todo lugar
 
-*Um exemplo*
+*Um exemplo: lógica*
 
-- **Conceito** — **Lógica** — Sequência, decisão (se… então), repetição e variáveis.
+A mesma lógica aparece em
+
 - Onde o conceito aparece: Python, Java, JavaScript, Fórmulas do Excel, Arduino, Pedido para uma IA
 
-> 🎤 **Fala:** Um exemplo é a Lógica de Programação. Lá a gente aprende sequência, decisão, o famoso “se isso, então aquilo”, repetição e variáveis. Esse mesmo conceito aparece no Python, no Java, no JavaScript, numa fórmula SE do Excel, num projeto de Arduino e até quando você escreve um pedido bem organizado para uma inteligência artificial. Aprende uma vez, usa em todo lugar.
+> 🎤 **Fala:** Um exemplo é a Lógica de Programação. Esse desenho é um fluxograma: começa no início, faz uma pergunta, “está chovendo?”, e segue um caminho para o sim e outro para o não. Isso é sequência e decisão, o famoso “se isso, então aquilo”. Esse mesmo raciocínio aparece no Python, no Java, no JavaScript, numa fórmula SE do Excel, num projeto de Arduino e até quando você escreve um pedido bem organizado para uma inteligência artificial. Aprende uma vez, usa em todo lugar.
 
 [↑ voltar ao sumário](#sumário)
 
@@ -181,13 +178,13 @@ Obs.: cada aluno tem interesses e habilidades diferentes; por isso, cada um prec
 
 *O que não mudou*
 
-- **Ela inventa** — Pode dar uma resposta errada com o mesmo tom de quem tem certeza.
-- **Não sabe seu contexto** — Não conhece sua escola, seu projeto nem seu problema se você não contar.
-- **Não aprende por você** — Copiar a resposta não coloca o conhecimento na sua cabeça.
+- **Ela inventa** — Responde errado com o tom de quem tem certeza.
+- **Não sabe seu contexto** — Não conhece seu projeto se você não contar.
+- **Não aprende por você** — Copiar a resposta não ensina nada.
 
 Só percebe o erro da IA quem entende o conceito. Por isso a base que a gente aprende continua sendo o mais importante.
 
-> 🎤 **Fala:** Mas tem uma coisa que não mudou. A IA erra. E o pior: ela erra com a mesma confiança de quando acerta. Ela também não sabe nada sobre o seu contexto se você não contar. E copiar a resposta dela não faz você aprender. Então quem não entende o conceito não percebe quando ela está errada. É por isso que aquela base que o professor ensina primeiro ficou ainda mais importante com a IA.
+> 🎤 **Fala:** Mas tem uma coisa que não mudou: a IA erra. Esse desenho representa uma rede neural, que é como muitas IAs funcionam por dentro. Ela recebe uma entrada, passa por várias camadas que aprenderam padrões a partir de muitos dados e escolhe a resposta mais provável. Repare: ela escolhe a resposta mais provável, não a verdadeira. Por isso ela pode errar com a mesma confiança de quando acerta. Ela também não sabe nada sobre o seu contexto se você não contar, e copiar a resposta dela não faz você aprender. Então quem não entende o conceito não percebe quando ela está errada.
 
 [↑ voltar ao sumário](#sumário)
 
@@ -239,13 +236,13 @@ Sem Git: trabalho_final.docx, trabalho_final_v2.docx, trabalho_final_AGORA_VAI.d
 
 *O conceito por trás*
 
-- **Commit** — **Uma foto com legenda** — Salvar uma versão explicando o que mudou: “corrigi a conclusão”.
-- **Branch** — **Um rascunho paralelo** — Testar uma ideia nova sem estragar a versão que já funciona.
-- **Merge** — **Juntar as partes** — Unir o trabalho de várias pessoas no mesmo projeto, sem bagunça.
+- **Commit · uma foto com legenda** — Salvar uma versão explicando o que mudou: “corrigi a conclusão”.
+- **Branch · um rascunho paralelo** — Testar uma ideia nova sem estragar a versão que já funciona.
+- **Merge · juntar as partes** — Unir o trabalho de várias pessoas no mesmo projeto, sem bagunça.
 
 Vale para tudo que muda com o tempo: trabalho de escola, contrato, receita, planilha, livro, projeto de obra.
 
-> 🎤 **Fala:** O mais importante não é a ferramenta, é o conceito, que é o de controle de versões. São três ideias. Commit é como tirar uma foto do trabalho com uma legenda dizendo o que mudou. Branch é um rascunho paralelo, para testar uma ideia sem estragar o que já está bom. E merge é juntar as partes de cada pessoa num projeto só. Isso vale para qualquer coisa que muda com o tempo, não só para código.
+> 🎤 **Fala:** O mais importante não é a ferramenta, é o conceito, que é o de controle de versões. Olhem o desenho: a linha azul é a versão principal do trabalho, e cada bolinha é um commit, como uma foto do trabalho com uma legenda dizendo o que mudou. O galho laranja é um branch, um rascunho paralelo para testar uma ideia sem estragar o que já está bom. Quando a ideia dá certo, ele volta e se junta à linha principal: isso é o merge. Isso vale para qualquer coisa que muda com o tempo, não só para código.
 
 [↑ voltar ao sumário](#sumário)
 
