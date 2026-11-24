@@ -10,25 +10,20 @@ Apresentação feita pela turma do Técnico em Informática. Cada slide tem uma 
 2. [Você não precisa querer ser programador](#slide-2)
 3. [Por trás das matérias, quatro habilidades](#slide-3)
 4. [O que o curso entrega, e o que ele não promete](#slide-4)
-5. [Toda área já é, em parte, uma área de tecnologia](#slide-5)
-6. [O que você já gosta de fazer fica melhor](#slide-6)
-7. [Coisas que você vai resolver sozinho](#slide-7)
-8. [Habilidades que as pessoas pagam para ter](#slide-8)
-9. [Ferramentas mudam. Conceitos ficam.](#slide-9)
-10. [Do geral para o específico, no ritmo de cada um](#slide-10)
-11. [Aprende o conceito uma vez, usa em todo lugar](#slide-11)
-12. [16 matérias, e o peso não é igual](#slide-12)
-13. [Às vezes a base chega depois](#slide-13)
-14. [As lacunas são reais. E elas fecham no fim do curso.](#slide-14)
-15. [O que mudou no jeito de aprender e trabalhar](#slide-15)
-16. [A IA erra, e erra com confiança](#slide-16)
-17. [Use a IA como professor, não como cola](#slide-17)
-18. [Quatro passos para trabalhar bem com IA](#slide-18)
-19. [Pedido fraco × pedido forte](#slide-19)
-20. [Git e GitHub: o histórico do seu trabalho](#slide-20)
-21. [Três ideias que servem para qualquer trabalho](#slide-21)
-22. [Outras profissões podem usar o mesmo conceito](#slide-22)
-23. [A IA não substitui quem pensa. Ela multiplica.](#slide-23)
+5. [A internet também funciona em camadas](#slide-5)
+6. [Toda área já é, em parte, uma área de tecnologia](#slide-6)
+7. [Coisas que você vai resolver e fazer melhor](#slide-7)
+8. [Ferramentas mudam. Conceitos ficam.](#slide-8)
+9. [Do geral para o específico, no ritmo de cada um](#slide-9)
+10. [Aprende o conceito uma vez, usa em todo lugar](#slide-10)
+11. [O que mudou no jeito de aprender e trabalhar](#slide-11)
+12. [A IA erra, e erra com confiança](#slide-12)
+13. [Quatro passos para usar a IA do jeito certo](#slide-13)
+14. [Pedido fraco × pedido forte](#slide-14)
+15. [Git e GitHub: o histórico do seu trabalho](#slide-15)
+16. [Três ideias que servem para qualquer trabalho](#slide-16)
+17. [Outras profissões podem usar o mesmo conceito](#slide-17)
+18. [A IA não substitui quem pensa. Ela multiplica.](#slide-18)
 
 <a id="slide-1"></a>
 ## Slide 1 — Técnico em Informática
@@ -75,25 +70,32 @@ Informática não é uma profissão só. É uma ferramenta que está dentro de t
 
 *Sendo honestos*
 
-- **Você aprende**
-  - Como um sistema é pensado, criado e mantido
-  - O que cada parte faz: hardware, sistema, rede, código e banco
-  - A fazer projetos simples e a entender os maiores
-  - Onde procurar e como continuar estudando
+Você aprende o que cada camada faz e como é criada
 
 - **O curso não promete**
   - Criar sozinho um sistema completo do zero
   - Manter um sistema sozinho, com segurança, por anos
-  - Ser especialista em todas as áreas ao mesmo tempo
+  - Ser especialista em todas as camadas ao mesmo tempo
 
-Na vida real, sistemas são feitos e mantidos por equipes. Querer fazer tudo sozinho é o caminho mais curto para o esgotamento (burnout).
+Na vida real, cada camada tem gente cuidando dela. Querer fazer tudo sozinho é o caminho mais curto para o esgotamento (burnout).
 
-> 🎤 **Fala:** Mas a gente quer ser honesto. O curso não transforma ninguém em alguém que cria sozinho um sistema completo do zero e ainda mantém tudo funcionando, com segurança, por anos. Nenhum profissional faz isso sozinho: na vida real, sistemas são feitos e mantidos por equipes, e cada pessoa cuida de uma parte. Quem tenta fazer tudo sozinho acaba esgotado, o que se chama burnout. O que o curso entrega é entender como um sistema é pensado, criado e mantido, saber o que cada parte faz, fazer projetos simples e saber como continuar aprendendo.
+> 🎤 **Fala:** Mas a gente quer ser honesto. Todo software é feito em camadas, como nesse desenho: a interface que você vê, as regras do programa, o banco de dados onde as informações ficam, o sistema operacional e o hardware. No curso a gente aprende o que cada camada faz, como ela é criada e como uma conversa com a outra, e faz projetos simples. O que o curso não promete é que alguém vá criar sozinho um sistema completo do zero e ainda mantê-lo, com segurança, por anos. Na vida real, cada camada tem gente cuidando dela, e quem tenta fazer tudo sozinho acaba esgotado, o que se chama burnout.
 
 [↑ voltar ao sumário](#sumário)
 
 <a id="slide-5"></a>
-## Slide 5 — Toda área já é, em parte, uma área de tecnologia
+## Slide 5 — A internet também funciona em camadas
+
+*Por dentro da internet*
+
+Uma mensagem desce pelas camadas do seu celular, atravessa a rede e sobe no celular do outro, tudo quase na mesma hora.
+
+> 🎤 **Fala:** E não é só o software que tem camadas: a internet também tem. Quando você manda uma mensagem, ela começa no aplicativo, como o WhatsApp. Depois a camada de transporte divide a mensagem em pedacinhos, chamados pacotes, e confere se todos chegaram. A camada de rede escolhe o caminho usando o endereço de cada aparelho, o IP. E a camada física leva o sinal de verdade, pelo Wi-Fi, pelo cabo ou pelo 4G. A mensagem desce essas camadas no seu celular, passa por cabos, roteadores e provedores, e sobe as mesmas camadas no celular do seu amigo, tudo quase na mesma hora.
+
+[↑ voltar ao sumário](#sumário)
+
+<a id="slide-6"></a>
+## Slide 6 — Toda área já é, em parte, uma área de tecnologia
 
 *Na profissão que você escolher*
 
@@ -110,55 +112,24 @@ Na vida real, sistemas são feitos e mantidos por equipes. Querer fazer tudo soz
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-6"></a>
-## Slide 6 — O que você já gosta de fazer fica melhor
-
-*Nos seus hobbies*
-
-- **Games** — Escolher peças, montar e otimizar o PC para rodar melhor.
-- **Música e vídeo** — Editar, gravar em casa e entender os programas dos criadores.
-- **Criar conteúdo** — Canal ou perfil com mais qualidade e menos dependência de apps prontos.
-- **Robótica** — Arduino, sensores e projetos que se mexem, feitos em casa.
-- **Seu próprio site** — Portfólio ou blog simples, feito por você e do seu jeito.
-- **Esporte e treino** — Planilhas, apps e dados para acompanhar sua evolução.
-
-> 🎤 **Fala:** E não é só no trabalho. Quem joga entende melhor o próprio computador e sabe escolher peça sem ser enganado. Quem gosta de música ou vídeo aprende a editar e gravar em casa. Quem quer criar conteúdo, montar um robô com Arduino ou ter o próprio site já sabe por onde começar. Até quem treina pode usar planilha e dados para ver se está evoluindo.
-
-[↑ voltar ao sumário](#sumário)
-
 <a id="slide-7"></a>
-## Slide 7 — Coisas que você vai resolver sozinho
+## Slide 7 — Coisas que você vai resolver e fazer melhor
 
-*No dia a dia*
+*No dia a dia e nos seus hobbies*
 
 - **Não cair em golpe** — Reconhecer link falso, golpe no WhatsApp e loja suspeita.
 - **Comprar certo** — Escolher celular ou notebook pela ficha técnica, não pela propaganda.
 - **Consertar o básico** — Computador lento, vírus, formatação: você sabe por onde começar.
-- **Organizar a vida** — Planilha de gastos, agenda, arquivos e senhas no lugar certo.
-- **Ajudar a família** — Ser a pessoa que configura, explica e resolve em casa.
 - **Proteger seus dados** — Senha forte, verificação em duas etapas e backup das suas fotos.
+- **Games e robótica** — Montar e otimizar o PC, ou criar projetos com Arduino em casa.
+- **Criar conteúdo** — Editar vídeo e áudio e montar um portfólio ou blog simples.
 
-> 🎤 **Fala:** No dia a dia, a diferença aparece rápido. Você reconhece um golpe antes de clicar, compra um celular olhando o que importa de verdade, resolve o computador lento sem pagar ninguém, organiza seus gastos numa planilha e protege suas contas. E, de quebra, vira a pessoa da família que resolve tudo.
+> 🎤 **Fala:** E não é só no trabalho: no dia a dia e nos hobbies a diferença aparece rápido. Você reconhece um golpe antes de clicar, compra um celular olhando o que importa de verdade, sabe por onde começar quando o computador fica lento e protege suas contas. E quem gosta de jogar, de robótica ou de criar conteúdo entende melhor o próprio computador, consegue montar projetos com Arduino e editar os próprios vídeos.
 
 [↑ voltar ao sumário](#sumário)
 
 <a id="slide-8"></a>
-## Slide 8 — Habilidades que as pessoas pagam para ter
-
-*E ainda pode virar renda*
-
-- **Manutenção** — Formatar, limpar, trocar peças e instalar programas para vizinhos e conhecidos.
-- **Páginas simples** — Cardápio digital, página de apresentação e redes sociais de pequenos comércios.
-- **Suporte e automação** — Configurar redes, impressoras e planilhas para escritórios e lojas.
-
-Não precisa ser sua profissão principal. Pode ser um dinheiro extra enquanto você estuda ou trabalha com outra coisa.
-
-> 🎤 **Fala:** E tem mais: isso pode virar dinheiro. Tem muita gente que precisa formatar um computador, ter um cardápio digital para o seu comércio ou configurar a impressora do escritório e não sabe fazer. Não precisa ser a sua profissão principal. Pode ser uma renda extra enquanto você faz faculdade ou trabalha em outra área.
-
-[↑ voltar ao sumário](#sumário)
-
-<a id="slide-9"></a>
-## Slide 9 — Ferramentas mudam. Conceitos ficam.
+## Slide 8 — Ferramentas mudam. Conceitos ficam.
 
 *Como o curso é ensinado*
 
@@ -168,8 +139,8 @@ Por isso o foco não é decorar um programa: é entender a ideia que está por t
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-10"></a>
-## Slide 10 — Do geral para o específico, no ritmo de cada um
+<a id="slide-9"></a>
+## Slide 9 — Do geral para o específico, no ritmo de cada um
 
 *O caminho*
 
@@ -185,64 +156,21 @@ Obs.: cada aluno tem interesses e habilidades diferentes; por isso, cada um prec
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-11"></a>
-## Slide 11 — Aprende o conceito uma vez, usa em todo lugar
+<a id="slide-10"></a>
+## Slide 10 — Aprende o conceito uma vez, usa em todo lugar
 
-*Um exemplo*
+*Um exemplo: lógica*
 
-- **Conceito** — **Lógica** — Sequência, decisão (se… então), repetição e variáveis.
+A mesma lógica aparece em
+
 - Onde o conceito aparece: Python, Java, JavaScript, Fórmulas do Excel, Arduino, Pedido para uma IA
 
-> 🎤 **Fala:** Um exemplo é a Lógica de Programação. Lá a gente aprende sequência, decisão, o famoso “se isso, então aquilo”, repetição e variáveis. Esse mesmo conceito aparece no Python, no Java, no JavaScript, numa fórmula SE do Excel, num projeto de Arduino e até quando você escreve um pedido bem organizado para uma inteligência artificial. Aprende uma vez, usa em todo lugar.
+> 🎤 **Fala:** Um exemplo é a Lógica de Programação. Esse desenho é um fluxograma: começa no início, faz uma pergunta, “está chovendo?”, e segue um caminho para o sim e outro para o não. Isso é sequência e decisão, o famoso “se isso, então aquilo”. Esse mesmo raciocínio aparece no Python, no Java, no JavaScript, numa fórmula SE do Excel, num projeto de Arduino e até quando você escreve um pedido bem organizado para uma inteligência artificial. Aprende uma vez, usa em todo lugar.
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-12"></a>
-## Slide 12 — 16 matérias, e o peso não é igual
-
-*Como o curso está organizado*
-
-- **1º ano** — **2 matérias técnicas** — Informática Básica · Lógica de Programação
-- **2º ano** — **7 de uma vez** — Arquitetura e Manutenção · HTML / CSS · Sistemas Operacionais · POO / Java · Programação Web · Noções de Robótica · Gestão do Tempo
-- **3º ano** — **7 + projeto final** — Rede de Computadores · Design · Banco de Dados · Programação Web II · Lab. de Hardware · Lab. de Software · Laboratório Web
-
-No 2º ano chegam três linguagens juntas: Java, JavaScript e PHP. É muita coisa nova ao mesmo tempo.
-
-> 🎤 **Fala:** Agora uma coisa que pouca gente sabe: como o curso está montado. São 16 matérias em três anos. No 1º ano são só duas técnicas: Informática Básica e Lógica de Programação. No 2º ano chegam sete de uma vez, e três linguagens diferentes no mesmo ano: Java, JavaScript e PHP. No 3º ano são mais sete, incluindo os laboratórios e um projeto final. Ou seja, o 2º ano concentra muita coisa nova ao mesmo tempo.
-
-[↑ voltar ao sumário](#sumário)
-
-<a id="slide-13"></a>
-## Slide 13 — Às vezes a base chega depois
-
-*Uma matéria depende da outra*
-
-| No 2º ano | Você precisa de… | Que só chega no 3º ano |
-|---|---|---|
-| Programação Web | Guardar dados e escrever comandos SQL | Banco de Dados |
-| Programação Web | Entender cliente-servidor e como os computadores conversam | Rede de Computadores |
-| HTML / CSS | Escolher cores, fontes e montar um bom layout | Design |
-| Arquitetura e Manutenção | Praticar na bancada com multímetro e ferramentas | Laboratório de Hardware |
-
-> 🎤 **Fala:** E aqui está um ponto importante: algumas matérias usam coisas que a gente ainda não estudou. Programação Web, no 2º ano, já pede para guardar dados num banco e escrever comandos SQL, mas Banco de Dados só aparece no 3º ano. Ela também fala de cliente e servidor, mas Redes só vem no 3º. Em HTML e CSS a gente monta páginas antes de estudar Design. E a teoria de hardware vem um ano antes da prática no laboratório. É por isso que às vezes parece que falta alguma coisa. E falta mesmo, por enquanto.
-
-[↑ voltar ao sumário](#sumário)
-
-<a id="slide-14"></a>
-## Slide 14 — As lacunas são reais. E elas fecham no fim do curso.
-
-*O que isso quer dizer*
-
-No 3º ano, o Laboratório Web junta programação, banco de dados e projeto em grupo. É ali que as peças se encaixam.
-
-Dica: praticar fora da aula fecha as lacunas mais rápido
-
-> 🎤 **Fala:** Então, o que isso quer dizer? Que o curso funciona como um quebra-cabeça. Algumas peças só fazem sentido quando a próxima chega. Se hoje parece que falta alguma coisa, é normal: a lacuna existe, mas ela vai sendo fechada. No 3º ano, o Laboratório Web junta tudo num projeto em grupo, com programação e banco de dados. É ali que as peças se encaixam. E quem pratica fora da aula, em casa ou até em simulador, chega lá com muito menos buraco.
-
-[↑ voltar ao sumário](#sumário)
-
-<a id="slide-15"></a>
-## Slide 15 — O que mudou no jeito de aprender e trabalhar
+<a id="slide-11"></a>
+## Slide 11 — O que mudou no jeito de aprender e trabalhar
 
 *A IA: antes e agora*
 
@@ -257,53 +185,39 @@ Dica: praticar fora da aula fecha as lacunas mais rápido
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-16"></a>
-## Slide 16 — A IA erra, e erra com confiança
+<a id="slide-12"></a>
+## Slide 12 — A IA erra, e erra com confiança
 
 *O que não mudou*
 
-- **Ela inventa** — Pode dar uma resposta errada com o mesmo tom de quem tem certeza.
-- **Não sabe seu contexto** — Não conhece sua escola, seu projeto nem seu problema se você não contar.
-- **Não aprende por você** — Copiar a resposta não coloca o conhecimento na sua cabeça.
+- **Ela inventa** — Responde errado com o tom de quem tem certeza.
+- **Não sabe seu contexto** — Não conhece seu projeto se você não contar.
+- **Não aprende por você** — Copiar a resposta não ensina nada.
 
 Só percebe o erro da IA quem entende o conceito. Por isso a base que a gente aprende continua sendo o mais importante.
 
-> 🎤 **Fala:** Mas tem uma coisa que não mudou. A IA erra. E o pior: ela erra com a mesma confiança de quando acerta. Ela também não sabe nada sobre o seu contexto se você não contar. E copiar a resposta dela não faz você aprender. Então quem não entende o conceito não percebe quando ela está errada. É por isso que aquela base que o professor ensina primeiro ficou ainda mais importante com a IA.
+> 🎤 **Fala:** Mas tem uma coisa que não mudou: a IA erra. Esse desenho representa uma rede neural, que é como muitas IAs funcionam por dentro. Ela recebe uma entrada, passa por várias camadas que aprenderam padrões a partir de muitos dados e escolhe a resposta mais provável. Repare: ela escolhe a resposta mais provável, não a verdadeira. Por isso ela pode errar com a mesma confiança de quando acerta. Ela também não sabe nada sobre o seu contexto se você não contar, e copiar a resposta dela não faz você aprender. Então quem não entende o conceito não percebe quando ela está errada.
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-17"></a>
-## Slide 17 — Use a IA como professor, não como cola
+<a id="slide-13"></a>
+## Slide 13 — Quatro passos para usar a IA do jeito certo
 
-*Para aprender*
+*Como professor, não como cola*
 
-- **Peça a explicação** — “Me explica passo a passo por que isso funciona.”
-- **Tente antes de perguntar** — Mostre o que você fez e peça para ela apontar onde errou.
-- **Peça para ela te testar** — “Me faz cinco perguntas sobre isso e corrige minhas respostas.”
-- **Peça no seu nível** — “Explica como se eu estivesse começando agora, com um exemplo do dia a dia.”
-
-> 🎤 **Fala:** Então qual é o jeito inteligente de usar a IA para aprender? É tratá-la como um professor particular, e não como cola. Peça a explicação, não só a resposta. Tente fazer antes e peça para ela mostrar onde você errou. Peça para ela te fazer perguntas e corrigir. E peça para explicar no seu nível, com exemplo do dia a dia. Assim a IA faz você aprender mais rápido, em vez de aprender menos.
-
-[↑ voltar ao sumário](#sumário)
-
-<a id="slide-18"></a>
-## Slide 18 — Quatro passos para trabalhar bem com IA
-
-*Para resolver problemas*
-
-- **01.** — **Entenda o problema** — Antes de abrir a IA, saiba o que você quer e o que já sabe.
-- **02.** — **Dê contexto** — Diga quem você é, o objetivo, o que já tentou e as regras.
-- **03.** — **Confira e teste** — Leia, rode, compare com outra fonte. Nada de aceitar de olhos fechados.
-- **04.** — **Melhore em rodadas** — Peça ajustes, corrija o rumo e repita até ficar bom.
+- **01.** — **Tente antes** — Entenda o que você quer e tente fazer sozinho primeiro.
+- **02.** — **Dê contexto** — Diga quem você é, o objetivo e o que já tentou.
+- **03.** — **Peça explicação** — Peça o passo a passo e que ela te faça perguntas para testar.
+- **04.** — **Confira e teste** — Compare com outra fonte. Nada de aceitar de olhos fechados.
 
 Cuidado: nunca coloque senhas, documentos ou dados pessoais seus ou de outras pessoas numa IA.
 
-> 🎤 **Fala:** Para resolver problemas, seja um trabalho da escola ou um problema no emprego, a gente pode seguir quatro passos. Primeiro, entender o problema antes de abrir a IA. Segundo, dar contexto: dizer quem você é, o que quer, o que já tentou. Terceiro, conferir e testar tudo o que ela entregar. E quarto, ir melhorando em rodadas, pedindo ajustes. E um cuidado importante: nunca coloque senha, documento ou dado pessoal numa IA.
+> 🎤 **Fala:** Então qual é o jeito certo de usar a IA? É tratá-la como um professor particular, e não como cola. São quatro passos. Primeiro, entender o que você quer e tentar fazer sozinho. Segundo, dar contexto: dizer quem você é, o objetivo e o que já tentou. Terceiro, pedir a explicação passo a passo e pedir que ela te faça perguntas para ver se você entendeu. E quarto, conferir e testar tudo, comparando com outra fonte. E um cuidado importante: nunca coloque senha, documento ou dado pessoal numa IA.
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-19"></a>
-## Slide 19 — Pedido fraco × pedido forte
+<a id="slide-14"></a>
+## Slide 14 — Pedido fraco × pedido forte
 
 *Na prática*
 
@@ -314,8 +228,8 @@ Cuidado: nunca coloque senhas, documentos ou dados pessoais seus ou de outras pe
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-20"></a>
-## Slide 20 — Git e GitHub: o histórico do seu trabalho
+<a id="slide-15"></a>
+## Slide 15 — Git e GitHub: o histórico do seu trabalho
 
 *Uma ferramenta para levar para a vida*
 
@@ -329,23 +243,23 @@ Sem Git: trabalho_final.docx, trabalho_final_v2.docx, trabalho_final_AGORA_VAI.d
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-21"></a>
-## Slide 21 — Três ideias que servem para qualquer trabalho
+<a id="slide-16"></a>
+## Slide 16 — Três ideias que servem para qualquer trabalho
 
 *O conceito por trás*
 
-- **Commit** — **Uma foto com legenda** — Salvar uma versão explicando o que mudou: “corrigi a conclusão”.
-- **Branch** — **Um rascunho paralelo** — Testar uma ideia nova sem estragar a versão que já funciona.
-- **Merge** — **Juntar as partes** — Unir o trabalho de várias pessoas no mesmo projeto, sem bagunça.
+- **Commit · uma foto com legenda** — Salvar uma versão explicando o que mudou: “corrigi a conclusão”.
+- **Branch · um rascunho paralelo** — Testar uma ideia nova sem estragar a versão que já funciona.
+- **Merge · juntar as partes** — Unir o trabalho de várias pessoas no mesmo projeto, sem bagunça.
 
 Vale para tudo que muda com o tempo: trabalho de escola, contrato, receita, planilha, livro, projeto de obra.
 
-> 🎤 **Fala:** O mais importante não é a ferramenta, é o conceito, que é o de controle de versões. São três ideias. Commit é como tirar uma foto do trabalho com uma legenda dizendo o que mudou. Branch é um rascunho paralelo, para testar uma ideia sem estragar o que já está bom. E merge é juntar as partes de cada pessoa num projeto só. Isso vale para qualquer coisa que muda com o tempo, não só para código.
+> 🎤 **Fala:** O mais importante não é a ferramenta, é o conceito, que é o de controle de versões. Olhem o desenho: a linha azul é a versão principal do trabalho, e cada bolinha é um commit, como uma foto do trabalho com uma legenda dizendo o que mudou. O galho laranja é um branch, um rascunho paralelo para testar uma ideia sem estragar o que já está bom. Quando a ideia dá certo, ele volta e se junta à linha principal: isso é o merge. Isso vale para qualquer coisa que muda com o tempo, não só para código.
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-22"></a>
-## Slide 22 — Outras profissões podem usar o mesmo conceito
+<a id="slide-17"></a>
+## Slide 17 — Outras profissões podem usar o mesmo conceito
 
 *Fora da TI*
 
@@ -360,8 +274,8 @@ Vale para tudo que muda com o tempo: trabalho de escola, contrato, receita, plan
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-23"></a>
-## Slide 23 — A IA não substitui quem pensa. Ela multiplica.
+<a id="slide-18"></a>
+## Slide 18 — A IA não substitui quem pensa. Ela multiplica.
 
 *Para fechar*
 
