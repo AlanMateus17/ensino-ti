@@ -17,18 +17,16 @@ Apresentação feita pela turma do Técnico em Informática. Cada slide tem uma 
 9. [Ferramentas mudam. Conceitos ficam.](#slide-9)
 10. [Do geral para o específico, no ritmo de cada um](#slide-10)
 11. [Aprende o conceito uma vez, usa em todo lugar](#slide-11)
-12. [16 matérias, e o peso não é igual](#slide-12)
-13. [Às vezes a base chega depois](#slide-13)
-14. [As lacunas são reais. E elas fecham no fim do curso.](#slide-14)
-15. [O que mudou no jeito de aprender e trabalhar](#slide-15)
-16. [A IA erra, e erra com confiança](#slide-16)
-17. [Use a IA como professor, não como cola](#slide-17)
-18. [Quatro passos para trabalhar bem com IA](#slide-18)
-19. [Pedido fraco × pedido forte](#slide-19)
-20. [Git e GitHub: o histórico do seu trabalho](#slide-20)
-21. [Três ideias que servem para qualquer trabalho](#slide-21)
-22. [Outras profissões podem usar o mesmo conceito](#slide-22)
-23. [A IA não substitui quem pensa. Ela multiplica.](#slide-23)
+12. [Cada matéria é uma peça. No fim do curso, elas se encaixam.](#slide-12)
+13. [O que mudou no jeito de aprender e trabalhar](#slide-13)
+14. [A IA erra, e erra com confiança](#slide-14)
+15. [Use a IA como professor, não como cola](#slide-15)
+16. [Quatro passos para trabalhar bem com IA](#slide-16)
+17. [Pedido fraco × pedido forte](#slide-17)
+18. [Git e GitHub: o histórico do seu trabalho](#slide-18)
+19. [Três ideias que servem para qualquer trabalho](#slide-19)
+20. [Outras profissões podem usar o mesmo conceito](#slide-20)
+21. [A IA não substitui quem pensa. Ela multiplica.](#slide-21)
 
 <a id="slide-1"></a>
 ## Slide 1 — Técnico em Informática
@@ -198,51 +196,20 @@ Obs.: cada aluno tem interesses e habilidades diferentes; por isso, cada um prec
 [↑ voltar ao sumário](#sumário)
 
 <a id="slide-12"></a>
-## Slide 12 — 16 matérias, e o peso não é igual
+## Slide 12 — Cada matéria é uma peça. No fim do curso, elas se encaixam.
 
-*Como o curso está organizado*
+*Como as matérias se conectam*
 
-- **1º ano** — **2 matérias técnicas** — Informática Básica · Lógica de Programação
-- **2º ano** — **7 de uma vez** — Arquitetura e Manutenção · HTML / CSS · Sistemas Operacionais · POO / Java · Programação Web · Noções de Robótica · Gestão do Tempo
-- **3º ano** — **7 + projeto final** — Rede de Computadores · Design · Banco de Dados · Programação Web II · Lab. de Hardware · Lab. de Software · Laboratório Web
+Algumas ideias só ficam completas quando a próxima matéria chega. No 3º ano, o Laboratório Web junta tudo num projeto em grupo.
 
-No 2º ano chegam três linguagens juntas: Java, JavaScript e PHP. É muita coisa nova ao mesmo tempo.
+Dica: praticar fora da aula ajuda as peças a se encaixarem mais rápido
 
-> 🎤 **Fala:** Agora uma coisa que pouca gente sabe: como o curso está montado. São 16 matérias em três anos. No 1º ano são só duas técnicas: Informática Básica e Lógica de Programação. No 2º ano chegam sete de uma vez, e três linguagens diferentes no mesmo ano: Java, JavaScript e PHP. No 3º ano são mais sete, incluindo os laboratórios e um projeto final. Ou seja, o 2º ano concentra muita coisa nova ao mesmo tempo.
+> 🎤 **Fala:** Uma coisa legal de perceber é que o curso funciona como um quebra-cabeça. Cada matéria é uma peça, e algumas ideias só ficam completas quando a próxima matéria chega. Então, se em algum momento parecer que ainda falta alguma coisa, é normal: as peças vão se juntando ao longo do curso. No 3º ano, o Laboratório Web junta tudo num projeto em grupo, e é ali que dá para ver o quebra-cabeça montado. E quem pratica fora da aula, em casa ou até em simulador, vê essas peças se encaixarem mais rápido.
 
 [↑ voltar ao sumário](#sumário)
 
 <a id="slide-13"></a>
-## Slide 13 — Às vezes a base chega depois
-
-*Uma matéria depende da outra*
-
-| No 2º ano | Você precisa de… | Que só chega no 3º ano |
-|---|---|---|
-| Programação Web | Guardar dados e escrever comandos SQL | Banco de Dados |
-| Programação Web | Entender cliente-servidor e como os computadores conversam | Rede de Computadores |
-| HTML / CSS | Escolher cores, fontes e montar um bom layout | Design |
-| Arquitetura e Manutenção | Praticar na bancada com multímetro e ferramentas | Laboratório de Hardware |
-
-> 🎤 **Fala:** E aqui está um ponto importante: algumas matérias usam coisas que a gente ainda não estudou. Programação Web, no 2º ano, já pede para guardar dados num banco e escrever comandos SQL, mas Banco de Dados só aparece no 3º ano. Ela também fala de cliente e servidor, mas Redes só vem no 3º. Em HTML e CSS a gente monta páginas antes de estudar Design. E a teoria de hardware vem um ano antes da prática no laboratório. É por isso que às vezes parece que falta alguma coisa. E falta mesmo, por enquanto.
-
-[↑ voltar ao sumário](#sumário)
-
-<a id="slide-14"></a>
-## Slide 14 — As lacunas são reais. E elas fecham no fim do curso.
-
-*O que isso quer dizer*
-
-No 3º ano, o Laboratório Web junta programação, banco de dados e projeto em grupo. É ali que as peças se encaixam.
-
-Dica: praticar fora da aula fecha as lacunas mais rápido
-
-> 🎤 **Fala:** Então, o que isso quer dizer? Que o curso funciona como um quebra-cabeça. Algumas peças só fazem sentido quando a próxima chega. Se hoje parece que falta alguma coisa, é normal: a lacuna existe, mas ela vai sendo fechada. No 3º ano, o Laboratório Web junta tudo num projeto em grupo, com programação e banco de dados. É ali que as peças se encaixam. E quem pratica fora da aula, em casa ou até em simulador, chega lá com muito menos buraco.
-
-[↑ voltar ao sumário](#sumário)
-
-<a id="slide-15"></a>
-## Slide 15 — O que mudou no jeito de aprender e trabalhar
+## Slide 13 — O que mudou no jeito de aprender e trabalhar
 
 *A IA: antes e agora*
 
@@ -257,8 +224,8 @@ Dica: praticar fora da aula fecha as lacunas mais rápido
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-16"></a>
-## Slide 16 — A IA erra, e erra com confiança
+<a id="slide-14"></a>
+## Slide 14 — A IA erra, e erra com confiança
 
 *O que não mudou*
 
@@ -272,8 +239,8 @@ Só percebe o erro da IA quem entende o conceito. Por isso a base que a gente ap
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-17"></a>
-## Slide 17 — Use a IA como professor, não como cola
+<a id="slide-15"></a>
+## Slide 15 — Use a IA como professor, não como cola
 
 *Para aprender*
 
@@ -286,8 +253,8 @@ Só percebe o erro da IA quem entende o conceito. Por isso a base que a gente ap
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-18"></a>
-## Slide 18 — Quatro passos para trabalhar bem com IA
+<a id="slide-16"></a>
+## Slide 16 — Quatro passos para trabalhar bem com IA
 
 *Para resolver problemas*
 
@@ -302,8 +269,8 @@ Cuidado: nunca coloque senhas, documentos ou dados pessoais seus ou de outras pe
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-19"></a>
-## Slide 19 — Pedido fraco × pedido forte
+<a id="slide-17"></a>
+## Slide 17 — Pedido fraco × pedido forte
 
 *Na prática*
 
@@ -314,8 +281,8 @@ Cuidado: nunca coloque senhas, documentos ou dados pessoais seus ou de outras pe
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-20"></a>
-## Slide 20 — Git e GitHub: o histórico do seu trabalho
+<a id="slide-18"></a>
+## Slide 18 — Git e GitHub: o histórico do seu trabalho
 
 *Uma ferramenta para levar para a vida*
 
@@ -329,8 +296,8 @@ Sem Git: trabalho_final.docx, trabalho_final_v2.docx, trabalho_final_AGORA_VAI.d
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-21"></a>
-## Slide 21 — Três ideias que servem para qualquer trabalho
+<a id="slide-19"></a>
+## Slide 19 — Três ideias que servem para qualquer trabalho
 
 *O conceito por trás*
 
@@ -344,8 +311,8 @@ Vale para tudo que muda com o tempo: trabalho de escola, contrato, receita, plan
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-22"></a>
-## Slide 22 — Outras profissões podem usar o mesmo conceito
+<a id="slide-20"></a>
+## Slide 20 — Outras profissões podem usar o mesmo conceito
 
 *Fora da TI*
 
@@ -360,8 +327,8 @@ Vale para tudo que muda com o tempo: trabalho de escola, contrato, receita, plan
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-23"></a>
-## Slide 23 — A IA não substitui quem pensa. Ela multiplica.
+<a id="slide-21"></a>
+## Slide 21 — A IA não substitui quem pensa. Ela multiplica.
 
 *Para fechar*
 
