@@ -25,7 +25,10 @@ Arquitetura de Computadores - José Delgado, Carlos Ribeiro - 5ª edição - Edi
 _Pasta pronta em `apostilas/` — adicione os PDFs/materiais aqui._
 
 ## Exercícios
-_Pasta pronta em `exercicios/` — adicione as listas de exercícios aqui._
+- [`Revisao_Ano_LabHardware.md`](exercicios/Revisao_Ano_LabHardware.md) — **Revisão do ano todo** — 15 questões teóricas, Aulas 01 a 20
+- [`Revisao_Aulas01-03-04_LabHardware.pdf`](exercicios/Revisao_Aulas01-03-04_LabHardware.pdf) — Atividade de revisão (objetiva) — Aulas 01, 03 e 04
+- [`Revisao_Aulas01-06_LabHardware_Atividade.pdf`](exercicios/Revisao_Aulas01-06_LabHardware_Atividade.pdf) — Atividade de revisão (objetivas + teóricas) — Aulas 01 a 06
+- [`Revisao_Aulas01-06_LabHardware_Quadro.pdf`](exercicios/Revisao_Aulas01-06_LabHardware_Quadro.pdf) — Conteúdo para o quadro da revisão — Aulas 01 a 06
 
 ## Avaliações
 _Pasta pronta em `avaliacoes/` — adicione provas e critérios de avaliação aqui._

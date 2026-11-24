@@ -25,7 +25,10 @@ A Robótica para Uso Educacional - Flavio Rodrigues Campos - 1ª edição - Edit
 _Pasta pronta em `apostilas/` — adicione os PDFs/materiais aqui._
 
 ## Exercícios
-_Pasta pronta em `exercicios/` — adicione as listas de exercícios aqui._
+- [`Revisao_Ano_Robotica.md`](exercicios/Revisao_Ano_Robotica.md) — **Revisão do ano todo** — 15 questões teóricas, Aulas 01 a 20
+- [`Revisao_Aulas01-05_Robotica.pdf`](exercicios/Revisao_Aulas01-05_Robotica.pdf) — Atividade de revisão (objetiva) — Aulas 01 a 05
+- [`Revisao_Aulas01-05_Robotica_Atividade.pdf`](exercicios/Revisao_Aulas01-05_Robotica_Atividade.pdf) — Atividade de revisão (objetivas + teóricas) — Aulas 01 a 05
+- [`Revisao_Aulas01-05_Robotica_Quadro.pdf`](exercicios/Revisao_Aulas01-05_Robotica_Quadro.pdf) — Conteúdo para o quadro da revisão — Aulas 01 a 05
 
 ## Avaliações
 _Pasta pronta em `avaliacoes/` — adicione provas e critérios de avaliação aqui._

@@ -22,7 +22,11 @@ Sistemas Operacionais Modernos - Andrew S. Tanenbaum - 4ª edição - Editora Pe
 _Pasta pronta em `apostilas/` — adicione os PDFs/materiais aqui._
 
 ## Exercícios
-_Pasta pronta em `exercicios/` — adicione as listas de exercícios aqui._
+- [`Revisao_Ano_SistemasOperacionais.md`](exercicios/Revisao_Ano_SistemasOperacionais.md) — **Revisão do ano todo** — 15 questões teóricas, Aulas 01 a 20
+- [`Revisao_Aulas01_SistemasOperacionais.pdf`](exercicios/Revisao_Aulas01_SistemasOperacionais.pdf) — Atividade de revisão (objetiva) — Aula 01
+- [`Revisao_Aulas01-05_SistemasOperacionais_Atividade.pdf`](exercicios/Revisao_Aulas01-05_SistemasOperacionais_Atividade.pdf) — Atividade de revisão (objetivas + teóricas) — Aulas 01 a 05
+- [`Revisao_Aulas01-05_SistemasOperacionais_Quadro.pdf`](exercicios/Revisao_Aulas01-05_SistemasOperacionais_Quadro.pdf) — Conteúdo para o quadro da revisão — Aulas 01 a 05
+- [`questionario-kernel.md`](exercicios/questionario-kernel.md) — Questionário sobre o kernel
 
 ## Avaliações
 _Pasta pronta em `avaliacoes/` — adicione provas e critérios de avaliação aqui._

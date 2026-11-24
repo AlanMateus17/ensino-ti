@@ -22,7 +22,9 @@ Programando com Kotlin: Conheça Todos os Recursos de Kotlin com Este Guia Detal
 _Pasta pronta em `apostilas/` — adicione os PDFs/materiais aqui._
 
 ## Exercícios
-_Pasta pronta em `exercicios/` — adicione as listas de exercícios aqui._
+- [`Revisao_Ano_POOJava.md`](exercicios/Revisao_Ano_POOJava.md) — **Revisão do ano todo** — 15 questões teóricas, Aulas 01 a 20
+- [`Revisao_Aulas01-02_POOJava.pdf`](exercicios/Revisao_Aulas01-02_POOJava.pdf) — Atividade de revisão (objetiva) — Aulas 01 a 02
+- [`Trabalho de P.O.O JAVA.md`](exercicios/Trabalho%20de%20P.O.O%20JAVA.md) — Trabalho prático de POO/Java
 
 ## Avaliações
 _Pasta pronta em `avaliacoes/` — adicione provas e critérios de avaliação aqui._

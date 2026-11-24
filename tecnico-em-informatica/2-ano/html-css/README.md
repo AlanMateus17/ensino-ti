@@ -22,7 +22,9 @@ Use a Cabeça! HTML e CSS - Eric Freeman, Elisabeth Robson - 1ª edição - Edit
 _Pasta pronta em `apostilas/` — adicione os PDFs/materiais aqui._
 
 ## Exercícios
-_Pasta pronta em `exercicios/` — adicione as listas de exercícios aqui._
+- [`Revisao_Ano_HTMLCSS.md`](exercicios/Revisao_Ano_HTMLCSS.md) — **Revisão do ano todo** — 15 questões teóricas, Aulas 01 a 20
+- [`Revisao_Aulas01-03_HTMLCSS.pdf`](exercicios/Revisao_Aulas01-03_HTMLCSS.pdf) — Atividade de revisão (objetiva) — Aulas 01 a 03
+- [`Teorica_Conceitos_HTMLCSS.pdf`](exercicios/Teorica_Conceitos_HTMLCSS.pdf) — Atividade teórica por conceitos (questões abertas)
 
 ## Avaliações
 _Pasta pronta em `avaliacoes/` — adicione provas e critérios de avaliação aqui._

@@ -22,7 +22,13 @@ Engenharia de Software: Uma Abordagem Profissional - Roger S. Pressman, Bruce R.
 _Pasta pronta em `apostilas/` — adicione os PDFs/materiais aqui._
 
 ## Exercícios
-_Pasta pronta em `exercicios/` — adicione as listas de exercícios aqui._
+- [`Revisao_Ano_LabSoftware.md`](exercicios/Revisao_Ano_LabSoftware.md) — **Revisão do ano todo** — 15 questões teóricas, Aulas 01 a 20
+- [`Revisao_Aulas01-04_LabSoftware.pdf`](exercicios/Revisao_Aulas01-04_LabSoftware.pdf) — Atividade de revisão (objetiva) — Aulas 01 a 04
+- [`Revisao_Aulas01-04_LabSoftware_Atividade.pdf`](exercicios/Revisao_Aulas01-04_LabSoftware_Atividade.pdf) — Atividade de revisão (objetivas + teóricas) — Aulas 01 a 04
+- [`Revisao_Aulas01-04_LabSoftware_Quadro.pdf`](exercicios/Revisao_Aulas01-04_LabSoftware_Quadro.pdf) — Conteúdo para o quadro da revisão — Aulas 01 a 04
+- [`Teorica_Conceitos_LabSoftware.pdf`](exercicios/Teorica_Conceitos_LabSoftware.pdf) — Atividade teórica por conceitos (questões abertas)
+- [`Trabalho de Lab.Software.md`](exercicios/Trabalho%20de%20Lab.Software.md) — Trabalho prático (instalação em VM)
+- [`questoes-fixacao-wsl2-docker-hardware.md`](exercicios/questoes-fixacao-wsl2-docker-hardware.md) — Questões de fixação — WSL2 e Docker
 
 ## Avaliações
 _Pasta pronta em `avaliacoes/` — adicione provas e critérios de avaliação aqui._
