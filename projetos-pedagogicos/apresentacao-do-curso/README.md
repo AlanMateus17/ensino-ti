@@ -11,22 +11,18 @@ Apresentação feita pela turma do Técnico em Informática. Cada slide tem uma 
 3. [Por trás das matérias, quatro habilidades](#slide-3)
 4. [O que o curso entrega, e o que ele não promete](#slide-4)
 5. [Toda área já é, em parte, uma área de tecnologia](#slide-5)
-6. [O que você já gosta de fazer fica melhor](#slide-6)
-7. [Coisas que você vai resolver sozinho](#slide-7)
-8. [Habilidades que as pessoas pagam para ter](#slide-8)
-9. [Ferramentas mudam. Conceitos ficam.](#slide-9)
-10. [Do geral para o específico, no ritmo de cada um](#slide-10)
-11. [Aprende o conceito uma vez, usa em todo lugar](#slide-11)
-12. [Cada matéria é uma peça. No fim do curso, elas se encaixam.](#slide-12)
-13. [O que mudou no jeito de aprender e trabalhar](#slide-13)
-14. [A IA erra, e erra com confiança](#slide-14)
-15. [Use a IA como professor, não como cola](#slide-15)
-16. [Quatro passos para trabalhar bem com IA](#slide-16)
-17. [Pedido fraco × pedido forte](#slide-17)
-18. [Git e GitHub: o histórico do seu trabalho](#slide-18)
-19. [Três ideias que servem para qualquer trabalho](#slide-19)
-20. [Outras profissões podem usar o mesmo conceito](#slide-20)
-21. [A IA não substitui quem pensa. Ela multiplica.](#slide-21)
+6. [Coisas que você vai resolver e fazer melhor](#slide-6)
+7. [Ferramentas mudam. Conceitos ficam.](#slide-7)
+8. [Do geral para o específico, no ritmo de cada um](#slide-8)
+9. [Aprende o conceito uma vez, usa em todo lugar](#slide-9)
+10. [O que mudou no jeito de aprender e trabalhar](#slide-10)
+11. [A IA erra, e erra com confiança](#slide-11)
+12. [Quatro passos para usar a IA do jeito certo](#slide-12)
+13. [Pedido fraco × pedido forte](#slide-13)
+14. [Git e GitHub: o histórico do seu trabalho](#slide-14)
+15. [Três ideias que servem para qualquer trabalho](#slide-15)
+16. [Outras profissões podem usar o mesmo conceito](#slide-16)
+17. [A IA não substitui quem pensa. Ela multiplica.](#slide-17)
 
 <a id="slide-1"></a>
 ## Slide 1 — Técnico em Informática
@@ -109,54 +105,23 @@ Na vida real, sistemas são feitos e mantidos por equipes. Querer fazer tudo soz
 [↑ voltar ao sumário](#sumário)
 
 <a id="slide-6"></a>
-## Slide 6 — O que você já gosta de fazer fica melhor
+## Slide 6 — Coisas que você vai resolver e fazer melhor
 
-*Nos seus hobbies*
-
-- **Games** — Escolher peças, montar e otimizar o PC para rodar melhor.
-- **Música e vídeo** — Editar, gravar em casa e entender os programas dos criadores.
-- **Criar conteúdo** — Canal ou perfil com mais qualidade e menos dependência de apps prontos.
-- **Robótica** — Arduino, sensores e projetos que se mexem, feitos em casa.
-- **Seu próprio site** — Portfólio ou blog simples, feito por você e do seu jeito.
-- **Esporte e treino** — Planilhas, apps e dados para acompanhar sua evolução.
-
-> 🎤 **Fala:** E não é só no trabalho. Quem joga entende melhor o próprio computador e sabe escolher peça sem ser enganado. Quem gosta de música ou vídeo aprende a editar e gravar em casa. Quem quer criar conteúdo, montar um robô com Arduino ou ter o próprio site já sabe por onde começar. Até quem treina pode usar planilha e dados para ver se está evoluindo.
-
-[↑ voltar ao sumário](#sumário)
-
-<a id="slide-7"></a>
-## Slide 7 — Coisas que você vai resolver sozinho
-
-*No dia a dia*
+*No dia a dia e nos seus hobbies*
 
 - **Não cair em golpe** — Reconhecer link falso, golpe no WhatsApp e loja suspeita.
 - **Comprar certo** — Escolher celular ou notebook pela ficha técnica, não pela propaganda.
 - **Consertar o básico** — Computador lento, vírus, formatação: você sabe por onde começar.
-- **Organizar a vida** — Planilha de gastos, agenda, arquivos e senhas no lugar certo.
-- **Ajudar a família** — Ser a pessoa que configura, explica e resolve em casa.
 - **Proteger seus dados** — Senha forte, verificação em duas etapas e backup das suas fotos.
+- **Games e robótica** — Montar e otimizar o PC, ou criar projetos com Arduino em casa.
+- **Criar conteúdo** — Editar vídeo e áudio e montar um portfólio ou blog simples.
 
-> 🎤 **Fala:** No dia a dia, a diferença aparece rápido. Você reconhece um golpe antes de clicar, compra um celular olhando o que importa de verdade, resolve o computador lento sem pagar ninguém, organiza seus gastos numa planilha e protege suas contas. E, de quebra, vira a pessoa da família que resolve tudo.
-
-[↑ voltar ao sumário](#sumário)
-
-<a id="slide-8"></a>
-## Slide 8 — Habilidades que as pessoas pagam para ter
-
-*E ainda pode virar renda*
-
-- **Manutenção** — Formatar, limpar, trocar peças e instalar programas para vizinhos e conhecidos.
-- **Páginas simples** — Cardápio digital, página de apresentação e redes sociais de pequenos comércios.
-- **Suporte e automação** — Configurar redes, impressoras e planilhas para escritórios e lojas.
-
-Não precisa ser sua profissão principal. Pode ser um dinheiro extra enquanto você estuda ou trabalha com outra coisa.
-
-> 🎤 **Fala:** E tem mais: isso pode virar dinheiro. Tem muita gente que precisa formatar um computador, ter um cardápio digital para o seu comércio ou configurar a impressora do escritório e não sabe fazer. Não precisa ser a sua profissão principal. Pode ser uma renda extra enquanto você faz faculdade ou trabalha em outra área.
+> 🎤 **Fala:** E não é só no trabalho: no dia a dia e nos hobbies a diferença aparece rápido. Você reconhece um golpe antes de clicar, compra um celular olhando o que importa de verdade, sabe por onde começar quando o computador fica lento e protege suas contas. E quem gosta de jogar, de robótica ou de criar conteúdo entende melhor o próprio computador, consegue montar projetos com Arduino e editar os próprios vídeos.
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-9"></a>
-## Slide 9 — Ferramentas mudam. Conceitos ficam.
+<a id="slide-7"></a>
+## Slide 7 — Ferramentas mudam. Conceitos ficam.
 
 *Como o curso é ensinado*
 
@@ -166,8 +131,8 @@ Por isso o foco não é decorar um programa: é entender a ideia que está por t
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-10"></a>
-## Slide 10 — Do geral para o específico, no ritmo de cada um
+<a id="slide-8"></a>
+## Slide 8 — Do geral para o específico, no ritmo de cada um
 
 *O caminho*
 
@@ -183,8 +148,8 @@ Obs.: cada aluno tem interesses e habilidades diferentes; por isso, cada um prec
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-11"></a>
-## Slide 11 — Aprende o conceito uma vez, usa em todo lugar
+<a id="slide-9"></a>
+## Slide 9 — Aprende o conceito uma vez, usa em todo lugar
 
 *Um exemplo*
 
@@ -195,21 +160,8 @@ Obs.: cada aluno tem interesses e habilidades diferentes; por isso, cada um prec
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-12"></a>
-## Slide 12 — Cada matéria é uma peça. No fim do curso, elas se encaixam.
-
-*Como as matérias se conectam*
-
-Algumas ideias só ficam completas quando a próxima matéria chega. No 3º ano, o Laboratório Web junta tudo num projeto em grupo.
-
-Dica: praticar fora da aula ajuda as peças a se encaixarem mais rápido
-
-> 🎤 **Fala:** Uma coisa legal de perceber é que o curso funciona como um quebra-cabeça. Cada matéria é uma peça, e algumas ideias só ficam completas quando a próxima matéria chega. Então, se em algum momento parecer que ainda falta alguma coisa, é normal: as peças vão se juntando ao longo do curso. No 3º ano, o Laboratório Web junta tudo num projeto em grupo, e é ali que dá para ver o quebra-cabeça montado. E quem pratica fora da aula, em casa ou até em simulador, vê essas peças se encaixarem mais rápido.
-
-[↑ voltar ao sumário](#sumário)
-
-<a id="slide-13"></a>
-## Slide 13 — O que mudou no jeito de aprender e trabalhar
+<a id="slide-10"></a>
+## Slide 10 — O que mudou no jeito de aprender e trabalhar
 
 *A IA: antes e agora*
 
@@ -224,8 +176,8 @@ Dica: praticar fora da aula ajuda as peças a se encaixarem mais rápido
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-14"></a>
-## Slide 14 — A IA erra, e erra com confiança
+<a id="slide-11"></a>
+## Slide 11 — A IA erra, e erra com confiança
 
 *O que não mudou*
 
@@ -239,38 +191,24 @@ Só percebe o erro da IA quem entende o conceito. Por isso a base que a gente ap
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-15"></a>
-## Slide 15 — Use a IA como professor, não como cola
+<a id="slide-12"></a>
+## Slide 12 — Quatro passos para usar a IA do jeito certo
 
-*Para aprender*
+*Como professor, não como cola*
 
-- **Peça a explicação** — “Me explica passo a passo por que isso funciona.”
-- **Tente antes de perguntar** — Mostre o que você fez e peça para ela apontar onde errou.
-- **Peça para ela te testar** — “Me faz cinco perguntas sobre isso e corrige minhas respostas.”
-- **Peça no seu nível** — “Explica como se eu estivesse começando agora, com um exemplo do dia a dia.”
-
-> 🎤 **Fala:** Então qual é o jeito inteligente de usar a IA para aprender? É tratá-la como um professor particular, e não como cola. Peça a explicação, não só a resposta. Tente fazer antes e peça para ela mostrar onde você errou. Peça para ela te fazer perguntas e corrigir. E peça para explicar no seu nível, com exemplo do dia a dia. Assim a IA faz você aprender mais rápido, em vez de aprender menos.
-
-[↑ voltar ao sumário](#sumário)
-
-<a id="slide-16"></a>
-## Slide 16 — Quatro passos para trabalhar bem com IA
-
-*Para resolver problemas*
-
-- **01.** — **Entenda o problema** — Antes de abrir a IA, saiba o que você quer e o que já sabe.
-- **02.** — **Dê contexto** — Diga quem você é, o objetivo, o que já tentou e as regras.
-- **03.** — **Confira e teste** — Leia, rode, compare com outra fonte. Nada de aceitar de olhos fechados.
-- **04.** — **Melhore em rodadas** — Peça ajustes, corrija o rumo e repita até ficar bom.
+- **01.** — **Tente antes** — Entenda o que você quer e tente fazer sozinho primeiro.
+- **02.** — **Dê contexto** — Diga quem você é, o objetivo e o que já tentou.
+- **03.** — **Peça explicação** — Peça o passo a passo e que ela te faça perguntas para testar.
+- **04.** — **Confira e teste** — Compare com outra fonte. Nada de aceitar de olhos fechados.
 
 Cuidado: nunca coloque senhas, documentos ou dados pessoais seus ou de outras pessoas numa IA.
 
-> 🎤 **Fala:** Para resolver problemas, seja um trabalho da escola ou um problema no emprego, a gente pode seguir quatro passos. Primeiro, entender o problema antes de abrir a IA. Segundo, dar contexto: dizer quem você é, o que quer, o que já tentou. Terceiro, conferir e testar tudo o que ela entregar. E quarto, ir melhorando em rodadas, pedindo ajustes. E um cuidado importante: nunca coloque senha, documento ou dado pessoal numa IA.
+> 🎤 **Fala:** Então qual é o jeito certo de usar a IA? É tratá-la como um professor particular, e não como cola. São quatro passos. Primeiro, entender o que você quer e tentar fazer sozinho. Segundo, dar contexto: dizer quem você é, o objetivo e o que já tentou. Terceiro, pedir a explicação passo a passo e pedir que ela te faça perguntas para ver se você entendeu. E quarto, conferir e testar tudo, comparando com outra fonte. E um cuidado importante: nunca coloque senha, documento ou dado pessoal numa IA.
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-17"></a>
-## Slide 17 — Pedido fraco × pedido forte
+<a id="slide-13"></a>
+## Slide 13 — Pedido fraco × pedido forte
 
 *Na prática*
 
@@ -281,8 +219,8 @@ Cuidado: nunca coloque senhas, documentos ou dados pessoais seus ou de outras pe
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-18"></a>
-## Slide 18 — Git e GitHub: o histórico do seu trabalho
+<a id="slide-14"></a>
+## Slide 14 — Git e GitHub: o histórico do seu trabalho
 
 *Uma ferramenta para levar para a vida*
 
@@ -296,8 +234,8 @@ Sem Git: trabalho_final.docx, trabalho_final_v2.docx, trabalho_final_AGORA_VAI.d
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-19"></a>
-## Slide 19 — Três ideias que servem para qualquer trabalho
+<a id="slide-15"></a>
+## Slide 15 — Três ideias que servem para qualquer trabalho
 
 *O conceito por trás*
 
@@ -311,8 +249,8 @@ Vale para tudo que muda com o tempo: trabalho de escola, contrato, receita, plan
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-20"></a>
-## Slide 20 — Outras profissões podem usar o mesmo conceito
+<a id="slide-16"></a>
+## Slide 16 — Outras profissões podem usar o mesmo conceito
 
 *Fora da TI*
 
@@ -327,8 +265,8 @@ Vale para tudo que muda com o tempo: trabalho de escola, contrato, receita, plan
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-21"></a>
-## Slide 21 — A IA não substitui quem pensa. Ela multiplica.
+<a id="slide-17"></a>
+## Slide 17 — A IA não substitui quem pensa. Ela multiplica.
 
 *Para fechar*
 
