@@ -22,7 +22,11 @@ Lógica de Programação - Aprendendo a Programar - Rubens Campos De Almeida Jú
 _Pasta pronta em `apostilas/` — adicione os PDFs/materiais aqui._
 
 ## Exercícios
-_Pasta pronta em `exercicios/` — adicione as listas de exercícios aqui._
+- [`Revisao_Ano_LogicaProgramacao.md`](exercicios/Revisao_Ano_LogicaProgramacao.md) — **Revisão do ano todo** — 15 questões teóricas, Aulas 01 a 20
+- [`Revisao_Aulas01-03_LogicaProgramacao.pdf`](exercicios/Revisao_Aulas01-03_LogicaProgramacao.pdf) — Atividade de revisão (objetiva) — Aulas 01 a 03
+- [`Revisao_Aulas01-07_LogicaProgramacao_Atividade.pdf`](exercicios/Revisao_Aulas01-07_LogicaProgramacao_Atividade.pdf) — Atividade de revisão (objetivas + teóricas) — Aulas 01 a 07
+- [`Revisao_Aulas01-07_LogicaProgramacao_Quadro.pdf`](exercicios/Revisao_Aulas01-07_LogicaProgramacao_Quadro.pdf) — Conteúdo para o quadro da revisão — Aulas 01 a 07
+- [`Teorica_Conceitos_LogicaProgramacao.pdf`](exercicios/Teorica_Conceitos_LogicaProgramacao.pdf) — Atividade teórica por conceitos (questões abertas)
 
 ## Avaliações
 _Pasta pronta em `avaliacoes/` — adicione provas e critérios de avaliação aqui._

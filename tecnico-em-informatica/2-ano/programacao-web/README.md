@@ -22,7 +22,8 @@ Construindo uma Aplicação Web Completa com PHP e MySQL - William Pereira Alves
 _Pasta pronta em `apostilas/` — adicione os PDFs/materiais aqui._
 
 ## Exercícios
-_Pasta pronta em `exercicios/` — adicione as listas de exercícios aqui._
+- [`Revisao_Ano_ProgramacaoWeb.md`](exercicios/Revisao_Ano_ProgramacaoWeb.md) — **Revisão do ano todo** — 15 questões teóricas, Aulas 01 a 20
+- [`Revisao_Aulas01_ProgramacaoWeb.pdf`](exercicios/Revisao_Aulas01_ProgramacaoWeb.pdf) — Atividade de revisão (objetiva) — Aula 01
 
 ## Avaliações
 _Pasta pronta em `avaliacoes/` — adicione provas e critérios de avaliação aqui._
