@@ -8,6 +8,7 @@ Repositório único com todo o material didático que uso em sala de aula, e meu
 ensino-ti/
 ├── tecnico-em-informatica/                    → Curso Técnico em Informática (16 componentes)
 ├── tecnico-em-desenvolvimento-de-sistemas/    → Curso Técnico em Desenvolvimento de Sistemas (13 componentes)
+├── projetos-pedagogicos/                      → Projetos e apresentações fora das matérias (ex.: apresentação do curso)
 ├── matematica/
 │   ├── matematica-basica/                     → Victor H. S. Lins, 10 partes
 │   └── calculo/                               → Victor H. S. Lins, 4 volumes (Cálculo 1 ao 4)
