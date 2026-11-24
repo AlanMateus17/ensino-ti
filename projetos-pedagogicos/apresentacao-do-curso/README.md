@@ -10,19 +10,20 @@ Apresentação feita pela turma do Técnico em Informática. Cada slide tem uma 
 2. [Você não precisa querer ser programador](#slide-2)
 3. [Por trás das matérias, quatro habilidades](#slide-3)
 4. [O que o curso entrega, e o que ele não promete](#slide-4)
-5. [Toda área já é, em parte, uma área de tecnologia](#slide-5)
-6. [Coisas que você vai resolver e fazer melhor](#slide-6)
-7. [Ferramentas mudam. Conceitos ficam.](#slide-7)
-8. [Do geral para o específico, no ritmo de cada um](#slide-8)
-9. [Aprende o conceito uma vez, usa em todo lugar](#slide-9)
-10. [O que mudou no jeito de aprender e trabalhar](#slide-10)
-11. [A IA erra, e erra com confiança](#slide-11)
-12. [Quatro passos para usar a IA do jeito certo](#slide-12)
-13. [Pedido fraco × pedido forte](#slide-13)
-14. [Git e GitHub: o histórico do seu trabalho](#slide-14)
-15. [Três ideias que servem para qualquer trabalho](#slide-15)
-16. [Outras profissões podem usar o mesmo conceito](#slide-16)
-17. [A IA não substitui quem pensa. Ela multiplica.](#slide-17)
+5. [A internet também funciona em camadas](#slide-5)
+6. [Toda área já é, em parte, uma área de tecnologia](#slide-6)
+7. [Coisas que você vai resolver e fazer melhor](#slide-7)
+8. [Ferramentas mudam. Conceitos ficam.](#slide-8)
+9. [Do geral para o específico, no ritmo de cada um](#slide-9)
+10. [Aprende o conceito uma vez, usa em todo lugar](#slide-10)
+11. [O que mudou no jeito de aprender e trabalhar](#slide-11)
+12. [A IA erra, e erra com confiança](#slide-12)
+13. [Quatro passos para usar a IA do jeito certo](#slide-13)
+14. [Pedido fraco × pedido forte](#slide-14)
+15. [Git e GitHub: o histórico do seu trabalho](#slide-15)
+16. [Três ideias que servem para qualquer trabalho](#slide-16)
+17. [Outras profissões podem usar o mesmo conceito](#slide-17)
+18. [A IA não substitui quem pensa. Ela multiplica.](#slide-18)
 
 <a id="slide-1"></a>
 ## Slide 1 — Técnico em Informática
@@ -83,7 +84,18 @@ Na vida real, cada camada tem gente cuidando dela. Querer fazer tudo sozinho é 
 [↑ voltar ao sumário](#sumário)
 
 <a id="slide-5"></a>
-## Slide 5 — Toda área já é, em parte, uma área de tecnologia
+## Slide 5 — A internet também funciona em camadas
+
+*Por dentro da internet*
+
+Uma mensagem desce pelas camadas do seu celular, atravessa a rede e sobe no celular do outro, tudo quase na mesma hora.
+
+> 🎤 **Fala:** E não é só o software que tem camadas: a internet também tem. Quando você manda uma mensagem, ela começa no aplicativo, como o WhatsApp. Depois a camada de transporte divide a mensagem em pedacinhos, chamados pacotes, e confere se todos chegaram. A camada de rede escolhe o caminho usando o endereço de cada aparelho, o IP. E a camada física leva o sinal de verdade, pelo Wi-Fi, pelo cabo ou pelo 4G. A mensagem desce essas camadas no seu celular, passa por cabos, roteadores e provedores, e sobe as mesmas camadas no celular do seu amigo, tudo quase na mesma hora.
+
+[↑ voltar ao sumário](#sumário)
+
+<a id="slide-6"></a>
+## Slide 6 — Toda área já é, em parte, uma área de tecnologia
 
 *Na profissão que você escolher*
 
@@ -100,8 +112,8 @@ Na vida real, cada camada tem gente cuidando dela. Querer fazer tudo sozinho é 
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-6"></a>
-## Slide 6 — Coisas que você vai resolver e fazer melhor
+<a id="slide-7"></a>
+## Slide 7 — Coisas que você vai resolver e fazer melhor
 
 *No dia a dia e nos seus hobbies*
 
@@ -116,8 +128,8 @@ Na vida real, cada camada tem gente cuidando dela. Querer fazer tudo sozinho é 
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-7"></a>
-## Slide 7 — Ferramentas mudam. Conceitos ficam.
+<a id="slide-8"></a>
+## Slide 8 — Ferramentas mudam. Conceitos ficam.
 
 *Como o curso é ensinado*
 
@@ -127,8 +139,8 @@ Por isso o foco não é decorar um programa: é entender a ideia que está por t
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-8"></a>
-## Slide 8 — Do geral para o específico, no ritmo de cada um
+<a id="slide-9"></a>
+## Slide 9 — Do geral para o específico, no ritmo de cada um
 
 *O caminho*
 
@@ -144,8 +156,8 @@ Obs.: cada aluno tem interesses e habilidades diferentes; por isso, cada um prec
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-9"></a>
-## Slide 9 — Aprende o conceito uma vez, usa em todo lugar
+<a id="slide-10"></a>
+## Slide 10 — Aprende o conceito uma vez, usa em todo lugar
 
 *Um exemplo: lógica*
 
@@ -157,8 +169,8 @@ A mesma lógica aparece em
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-10"></a>
-## Slide 10 — O que mudou no jeito de aprender e trabalhar
+<a id="slide-11"></a>
+## Slide 11 — O que mudou no jeito de aprender e trabalhar
 
 *A IA: antes e agora*
 
@@ -173,8 +185,8 @@ A mesma lógica aparece em
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-11"></a>
-## Slide 11 — A IA erra, e erra com confiança
+<a id="slide-12"></a>
+## Slide 12 — A IA erra, e erra com confiança
 
 *O que não mudou*
 
@@ -188,8 +200,8 @@ Só percebe o erro da IA quem entende o conceito. Por isso a base que a gente ap
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-12"></a>
-## Slide 12 — Quatro passos para usar a IA do jeito certo
+<a id="slide-13"></a>
+## Slide 13 — Quatro passos para usar a IA do jeito certo
 
 *Como professor, não como cola*
 
@@ -204,8 +216,8 @@ Cuidado: nunca coloque senhas, documentos ou dados pessoais seus ou de outras pe
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-13"></a>
-## Slide 13 — Pedido fraco × pedido forte
+<a id="slide-14"></a>
+## Slide 14 — Pedido fraco × pedido forte
 
 *Na prática*
 
@@ -216,8 +228,8 @@ Cuidado: nunca coloque senhas, documentos ou dados pessoais seus ou de outras pe
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-14"></a>
-## Slide 14 — Git e GitHub: o histórico do seu trabalho
+<a id="slide-15"></a>
+## Slide 15 — Git e GitHub: o histórico do seu trabalho
 
 *Uma ferramenta para levar para a vida*
 
@@ -231,8 +243,8 @@ Sem Git: trabalho_final.docx, trabalho_final_v2.docx, trabalho_final_AGORA_VAI.d
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-15"></a>
-## Slide 15 — Três ideias que servem para qualquer trabalho
+<a id="slide-16"></a>
+## Slide 16 — Três ideias que servem para qualquer trabalho
 
 *O conceito por trás*
 
@@ -246,8 +258,8 @@ Vale para tudo que muda com o tempo: trabalho de escola, contrato, receita, plan
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-16"></a>
-## Slide 16 — Outras profissões podem usar o mesmo conceito
+<a id="slide-17"></a>
+## Slide 17 — Outras profissões podem usar o mesmo conceito
 
 *Fora da TI*
 
@@ -262,8 +274,8 @@ Vale para tudo que muda com o tempo: trabalho de escola, contrato, receita, plan
 
 [↑ voltar ao sumário](#sumário)
 
-<a id="slide-17"></a>
-## Slide 17 — A IA não substitui quem pensa. Ela multiplica.
+<a id="slide-18"></a>
+## Slide 18 — A IA não substitui quem pensa. Ela multiplica.
 
 *Para fechar*
 
